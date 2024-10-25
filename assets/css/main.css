@@ -2433,7 +2433,7 @@ p {
 }
 
 .banner-items {
-  background-image: url("https:assemblebet.online/assets/img/banner.png") no-repeat;
+  background: url("https:assemblebet.online/assets/img/banner01.png") no-repeat;
   background-position: top center;
   background-size: cover;
   position: relative;
@@ -2453,11 +2453,11 @@ p {
 }
 
 .banner-bg-two {
-  background: url(https:assemblebet.online/assets/img/bannerthree.png) no-repeat !important;
+  background: url(https:assemblebet.online/assets/img/banner02.png) no-repeat !important;
 }
 
 .banner-bg-three {
-  background: url(https:assemblebet.online/assets/img/bannertwo.png) no-repeat !important;
+  background: url(https:assemblebet.online/assets/img/banner3.png) no-repeat !important;
 }
 
 .breadcumnd-banner {
@@ -4639,7 +4639,7 @@ p {
   font-size: 16px;
   line-height: 19px;
   display: inline-block;
-  color: var(--btn-clr);
+  color: 
   border: unset;
   text-transform: capitalize;
   position: relative;
@@ -4689,8 +4689,8 @@ background: linear-gradient(80.92deg, #FF6500 -7.62%, #FF8A08 105.55%);
   border: 1px solid var(--btn-two);
   overflow: hidden;
 }
-.btn--two:hover {
-  background-color: transparent;
+.btn--two:hover {------------------------------------------------------>
+  background-color: linear-gradient(80.92deg, #FFC100 -7.62%, #FF8A08 105.55%);
   border-color: var(--btn-two);
 }
 
