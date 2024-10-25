@@ -1469,7 +1469,7 @@ p {
   height: 15px;
   margin-left: auto;
   content: "";
-  background: url("assets/img/d-bottom.png") center;
+  background: url("../img/d-bottom.png") center;
   background-repeat: no-repeat;
   background-size: contain;
   transition: transform 0.2s ease-in-out;
@@ -1489,7 +1489,7 @@ p {
   height: 10px;
   margin-left: auto;
   content: "";
-  background: url("assets/img/d-bottom.png") center !important;
+  background: url("../img/d-bottom.png") center !important;
   background-repeat: no-repeat;
   background-size: cover;
   transition: transform 0.2s ease-in-out;
@@ -2433,7 +2433,7 @@ p {
 }
 
 .banner-items {
-  background: url("assets/img/banner01.png") no-repeat;
+  background: url("../img/banner01.png") no-repeat;
   background-position: top center;
   background-size: cover;
   position: relative;
@@ -2453,11 +2453,11 @@ p {
 }
 
 .banner-bg-two {
-  background: url("assets/img/banner02.png") no-repeat !important;
+  background: url("../img/banner02.png") no-repeat !important;
 }
 
 .banner-bg-three {
-  background: url("assets/img/banner3.png") no-repeat !important;
+  background: url("../img/banner3.png") no-repeat !important;
 }
 
 .breadcumnd-banner {
@@ -2481,7 +2481,7 @@ p {
   line-height: 24px;
 }
 .details-wrapper .details-img {
-  background: url("assets/img/details-banner.png") no-repeat center center;
+  background: url("../img/details-banner.png") no-repeat center center;
   background-size: cover;
   position: relative;
   padding: 80px 0 80px;
@@ -2562,7 +2562,7 @@ p {
   inset: 5px 5px 5px 5px;
   border-radius: 50%;
   content: "";
-  background: url("assets/img/probg.png") no-repeat center center;
+  background: url("../img/probg.png") no-repeat center center;
   background-size: cover;
 }
 .details-wrapper .details-img .details-progress .details-middle-items .matchfixing-box {
@@ -2780,7 +2780,7 @@ p {
   height: 15px;
   margin-left: auto;
   content: "";
-  background: url("assets/img/bottomarrow.png") center;
+  background: url("../img/bottomarrow.png") center;
   background-repeat: no-repeat;
   background-size: contain;
   transition: transform 0.2s ease-in-out;
@@ -3604,7 +3604,7 @@ p {
   height: 15px;
   margin-left: auto;
   content: "";
-  background: url("assets/img/bottomarrow.png") center;
+  background: url("../img/bottomarrow.png") center;
   background-repeat: no-repeat;
   background-size: contain;
   transition: transform 0.2s ease-in-out;
@@ -4566,7 +4566,7 @@ p {
   height: 15px;
   margin-left: auto;
   content: "";
-  background: url("assets/img/bottomarrow.png") center;
+  background: url("../img/bottomarrow.png") center;
   background-repeat: no-repeat;
   background-size: contain;
   transition: transform 0.2s ease-in-out;
@@ -5041,7 +5041,7 @@ background: linear-gradient(80.92deg, #FF6500 -7.62%, #FF8A08 105.55%);
     height: 35px;
     margin: 0 0 0 auto;
     padding: 25px 10px 1px;
-    background: url("assets/img/header/right-icon/cross.png") center/2em auto no-repeat;
+    background: url("../img/cross.png") center/2em auto no-repeat;
     border: 0;
     border-radius: 0.25rem;
     opacity: 0.5;
@@ -5223,7 +5223,6 @@ background: linear-gradient(80.92deg, #FF6500 -7.62%, #FF8A08 105.55%);
   .profile-tab .nav {
     gap: 20px;
   }
-  .profile-left-wrap .change-picture-box .change-box {
     padding: 15px 15px;
   }
   .profile-left-wrap .change-picture-box .change-box p {
