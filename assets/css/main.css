@@ -220,6 +220,14 @@ p {
   font-family: "Inter", sans-serif;
 }
 
+.white-p {
+  font-size: 18px;
+  line-height: 1.5;
+  margin-bottom: 0;
+  color: var(--white);
+  font-family: "Inter", sans-serif;
+}
+
 .pb-250 {
   padding-bottom: 200px;
 }
@@ -341,7 +349,7 @@ p {
 /*-Responsive-*/
 /*-Responsive-*/
 .text-base {
-  background: linear-gradient(80.92deg, #81CD34 -7.62%, #00A182 105.55%), #FFFFFF;
+  background: linear-gradient(80.92deg, #FF6500 -7.62%, #FF8A08 105.55%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
