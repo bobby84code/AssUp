@@ -39,7 +39,7 @@ Section css
   --match-two: #23C290;
   --point-color: #A7D1C7;
   --social-border: #CBCAF2;
-  --terminal-bg: #1A2825;
+  --terminal-bg: #9B9997;
   --icon-hover: #D4AC66;
   --accordion-bg: #142925;
   --details: #840606; /*#193F36;*/
@@ -583,7 +583,7 @@ p {
   color: var(--white);
 }
 .right-site-menu .right-box .combo-box .nav .nav-item .nav-link.active {
-  background: linear-gradient(80.92deg, #81CD34 -7.62%, #00A182 105.55%);
+  background: linear-gradient(80.92deg, #FF6500 -7.62%, #FF8A08 105.55%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
@@ -595,7 +595,7 @@ p {
   top: 33.9px;
   left: 0;
   height: 3px;
-  background: linear-gradient(80.92deg, #81CD34 -7.62%, #00A182 105.55%);
+   background: linear-gradient(80.92deg, #FF6500 -7.62%, #FF8A08 105.55%);
   box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.25);
   width: 100%;
   border-radius: 5px;
@@ -683,7 +683,7 @@ p {
   height: 4px;
   border-radius: 4px 0px 0px 4px;
   left: 0;
-  background-color: var(--pro-before);
+  background-color: var(--btn-two);
 }
 .right-site-menu .right-box .combo-wrapper .close-box .close-items .match-fixing .match-progress .match-items-left .terminal-bar span:nth-child(1) {
   position: absolute;
